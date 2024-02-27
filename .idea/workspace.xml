@@ -5,14 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a907abf4-6f2e-4165-9fc5-11ef069b2682" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/K1/T16/MojDDVTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/K1/T17/FrontPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/K1/T19/SubtitlesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/K1/T20/TaskSchedulerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/K1/T21/F1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/K1/T22/RuleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T1/AuditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T11/TasksManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T14/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T15/AirportsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T16/BlockContainerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T17/WeatherApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T18/ClusterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T2/BooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T20/DailyTemperatureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T21/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T23/LabExercisesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T25/OnlineShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T27/NamesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T29/FootballTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T3/DiscountsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T30/TelcoTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T31/CourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T32/GenericMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T34/LogsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T35/OnlinePaymentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T37/PostTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T38/QuizProcessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T4/FileSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T6/PayrollSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T8/CanvasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K2/T9/StadiumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/K1/T14/MojDDVTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K1/T15/MojDDVTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709041140263</updated>
       <workItem from="1709041141272" duration="1157000" />
-      <workItem from="1709042306129" duration="1808000" />
+      <workItem from="1709042306129" duration="3695000" />
     </task>
     <servers />
   </component>
