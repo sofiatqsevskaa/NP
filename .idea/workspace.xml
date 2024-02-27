@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a907abf4-6f2e-4165-9fc5-11ef069b2682" name="Changes" comment="" />
+    <list default="true" id="a907abf4-6f2e-4165-9fc5-11ef069b2682" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/K1/T4/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K1/T5/MinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K1/T6/ShapesTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709041140263</updated>
       <workItem from="1709041141272" duration="1157000" />
-      <workItem from="1709042306129" duration="644000" />
+      <workItem from="1709042306129" duration="864000" />
     </task>
     <servers />
   </component>
